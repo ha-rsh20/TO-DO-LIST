@@ -81,7 +81,7 @@
     </head>
     <body>
 		<form class="login">
-			<b>Save your Tasks trough Login! Trail account can have only one task!</b>
+			<b>Save your Tasks trough Login! Login for more features!</b>
 			<button formaction="login.html" class="btn btn-info">Login/Sign Up</button>
 		</form>
 		
